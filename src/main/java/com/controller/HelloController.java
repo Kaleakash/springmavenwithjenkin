@@ -10,6 +10,6 @@ public class HelloController {
 	public String sayHello() {
 		System.out.println("Welcome once again");
 	
-		return "Welcome to Spring boot with AWS using EC2 instance created akash";
+		return "Welcome to Spring boot with AWS using EC2 instance created akash;
 	}
 }
